@@ -1,21 +1,21 @@
-#**⚠️🚑Road Accident Dashboard**
+**⚠️🚑#Road Accident Dashboard**
 
-##📌**Project Description**
+**📌##Project Description**
 
 A major issue that has an impact on communities all across the world is road safety. In this project I have created a Road Accident Analytics Dashboard, a powerful tool designed to analyse and visualize road accident data for the years 2021 and 2022. This Excel-based dashboard empowers stakeholders with valuable insights to make data-driven decisions and pave the way towards safer roads.
 
-##**📌Tech Stack Used**
+**##📌Tech Stack Used**
 
 EXCEL
 
-##**📌Skills showcased in this Project**
+**##📌Skills showcased in this Project**
 
 Data Cleaning, Data Transformation, Data Analysis
 Filtering, Sorting and Conditional function.
 Pivot Tables and Pivot Chart
 Data Visulisation and Dashboard creation
 
-##**📌Requirements and KPIs**
+**📌##Requirements and KPIs**
 
 🔸Clients want to create a road accident dashboard for the years 2021 and 2022 so that they can have insight on following aspects-
 
@@ -28,7 +28,7 @@ Distribution of total causalties by Road Surface
 Total Casualties and Total Accidents by Location
 Relation between casualties by Area/Location & by Day/Night
 
-##**📌Project Description**
+**📌##Project Description**
 
 🔸This stage began with getting to know the dataset and checking for any data quality issues.
 
@@ -37,15 +37,15 @@ Removing duplicates, and irrelevant columns.
 Made sure data is consistent and clean with respect to data type, data format and values used.
 Creating 2 new attributes 'Year' and 'Month' were added for logical and easy interpretation of dataset.
 
-##**📌Data Analysis**
+**##📌Data Analysis**
 
 Created a "Data Analysis" sheet to summarize all the pivot table Data for a new user or developer or client to ease their work and gathered information. On this sheet nine pivot tables were created to summarise the data and help identify trends in the dataset focusing on relationship between number of casualties and many factors such as- casualty type, vehicle type, road type, location etc. Monthly trends were also analysed for the years 2021 and 2022.
 
-##**📌Data Visualization**
+**📌##Data Visualization**
 
 Finally, the dashboard was created by inserting and customizing the pivot charts of corresponding pivot table. For user friendly and interactive experience slicers and timelines were incorporated. Hyperlinks and connections were also added to necessary icons for seamless navigation.
 
-##**📌Key Insights**
+**📌##Key Insights**
 
 📈 Total Casualties Analysis: The dashboard reveals that a staggering 417,883 casualties occurred after accidents during the two-year period
 📅 Peak Months: Overall the number of casulaties were slightly higher in 2021 than 2022. Maximum Casualties happened in the month of October and November in both the Years and minimum casualties take place in the month of January and February.
@@ -56,7 +56,7 @@ Finally, the dashboard was created by inserting and customizing the pivot charts
 🏙️ Casualties Relation by Area/Location Urban areas form the majority of casualties after an accident (61%)
 ☀️ Casualties Distribution by light condtion: 73% of casulties take place in daylight condtion
 
-##**📌Results**
+**📌##Results**
 
 🔸The most common type of vehicle involved in road accidents is a car.
 
@@ -66,6 +66,6 @@ The most common weather condition for road accidents is dry.
 The most common Area for road accident is Urban.
 The most common Light condition for road accident is Daylight.
 
-##**📌End**
+**📌##End**
 
 This Road Accident Analytics Dashboard opens the door to data-driven decision-making, enabling stakeholders to implement evidence-based interventions that enhance road safety. It serves as a valuable tool for policymakers, traffic authorities, and safety advocates alike.
